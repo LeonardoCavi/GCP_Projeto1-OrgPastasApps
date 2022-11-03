@@ -1,0 +1,1 @@
+# Criação de estrutura de Pastas e Projetos no GCP com draw.io
