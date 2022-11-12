@@ -1,0 +1,8 @@
+gcloud projects list (Lista todos os projetos no GCP)
+gcloud projects list --format="json" (Lista todos os projetos no GCP em formato json)
+gcloud compute zones list --format="json" (Lista todos as zonas disponiveis no GCP)
+gcloud compute instances list --format="json" (Lista as instancias disponiveis no GCP)
+
+==> Criar nova instância da VM através do terminal <==
+gcloud compute instances create "nome da instância"
+
