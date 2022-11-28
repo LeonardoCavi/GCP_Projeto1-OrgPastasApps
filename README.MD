@@ -5,3 +5,4 @@
  - Criação de Painel Personalizado por Projeto.
  - Definição de preferências de Idiomas/Linguagens.
  - Script para subir aplicação de exemplo java via Google Cloud Shell.
+ - Comandos básicos GCloud SDK e instalação no Ubuntu/Debian.
